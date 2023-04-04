@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ron, an <a href="https://linkedin.com/in/rondalepritchett">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ron, an <a href="https://linkedin.com/in/rondalepritchett">IT Professional</a>
 
 <h2>Information Technology Projects:</h2>
 
